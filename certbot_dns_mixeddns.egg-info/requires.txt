@@ -1,6 +1,0 @@
-setuptools>=68.2.0
-boto3>=1.34.45
-cloudflare>=2.19.0
-dnspython>=2.6.1
-acme>=0.0.1
-certbot>=0.0.1

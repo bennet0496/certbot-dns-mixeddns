@@ -1,2 +1,0 @@
-[certbot.plugins]
-dns-mixeddns = certbot_dns_mixeddns.dns_mixeddns:Authenticator
