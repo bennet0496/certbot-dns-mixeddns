@@ -1,0 +1,10 @@
+MANIFEST.in
+setup.py
+certbot_dns_mixeddns/__init__.py
+certbot_dns_mixeddns/dns_mixeddns.py
+certbot_dns_mixeddns.egg-info/PKG-INFO
+certbot_dns_mixeddns.egg-info/SOURCES.txt
+certbot_dns_mixeddns.egg-info/dependency_links.txt
+certbot_dns_mixeddns.egg-info/entry_points.txt
+certbot_dns_mixeddns.egg-info/requires.txt
+certbot_dns_mixeddns.egg-info/top_level.txt

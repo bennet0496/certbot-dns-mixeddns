@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: certbot-dns-mixeddns
+Version: 0.0.1
+Summary: DNS Authenticator for Domain across multiple DNS providers
+Home-page: https://github.com/bennet0496/certbot-dns-mixeddns
+Author: Bennet Becker
+Author-email: dev@bennet.cc
+License: MIT
+Classifier: Development Status :: 1 - Planning
+Classifier: Environment :: Plugins
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Security
+Classifier: Topic :: System :: Installation/Setup
+Classifier: Topic :: System :: Networking
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: Utilities
+Requires-Python: >=3.10
+Requires-Dist: setuptools>=68.2.0
+Requires-Dist: boto3>=1.34.45
+Requires-Dist: cloudflare>=2.19.0
+Requires-Dist: dnspython>=2.6.1
+Requires-Dist: acme>=0.0.1
+Requires-Dist: certbot>=0.0.1
